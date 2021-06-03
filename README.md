@@ -1,4 +1,4 @@
-# Testing the application of Federated Learning to Fraud Detection
+# Testing the application of Federated Learning on Fraud Detection
 The purpose of the following Notebook it to test the possible application of Federated Learning to insurance fraud cases regarding claims.
 
 View the Notebook Directly: https://nbviewer.jupyter.org/github/mitrotasios/FL-test-case/blob/main/test_cc_fraud.ipynb
